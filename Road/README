@@ -1,0 +1,9 @@
+MAP:
+0.0 - obstacle (black on map)
+1.0 - road (white on map)
+2.1 - crosswalk (blue on map)
+2.2 - crosswalk with pedestian (blue with yellow point)
+3.1 - green traffic light
+3.2 - red traffic light
+/*unknown - grey on map*/
+first parameter - numbre of cars from 1 to 3 (default is 1)
